@@ -35,7 +35,7 @@ Analyze historical Uber trip logs to answer:
 | Frequency vs distance by month | Trends track together most months; **May** is an outlier with a sharp drop in both frequency and distance |
 | Purpose breakdown | Majority of trips are **Business** category; most common purposes are *undisclosed*, followed by *Meeting* and *Meal/Entertainment* |
 | Typical trip distance | Most trips fall between **1–5 miles** |
-| Correlation between features | No strong correlation found between trip purpose, category, distance, or time — confirms these are largely independent factors |
+| Correlation between features | No strong correlation found between trip purpose, category, distance, or time confirms these are largely independent factors |
 
 ## 📈 Sample Visuals
 *(embed 2–3 exported PNGs here)*
