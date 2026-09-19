@@ -48,10 +48,20 @@ Analyze historical Uber trip logs to answer:
 
 ## 🚀 How to Run
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/jobinjosej253/uber-ride-analysis.git
 cd uber-ride-analysis
 pip install pandas numpy matplotlib seaborn scikit-learn
 jupyter notebook uber_ride_analysis.ipynb
 ```
 
 ## 📂 Repo Structure
+├── UberDataset.csv
+├── uber_ride_analysis.ipynb
+├── images/
+│ └── rides_by_day.png
+│ └── purpose_by_category.png
+│ └── frequency_and_average.png
+└── README.md
+
+## 📄 License
+MIT
