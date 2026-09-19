@@ -55,6 +55,7 @@ jupyter notebook uber_ride_analysis.ipynb
 ```
 
 ## 📂 Repo Structure
+```
 ├── UberDataset.csv
 ├── uber_ride_analysis.ipynb
 ├── images/
@@ -62,6 +63,7 @@ jupyter notebook uber_ride_analysis.ipynb
 │ └── purpose_by_category.png
 │ └── frequency_and_average.png
 └── README.md
+```
 
 ## 📄 License
 MIT
